@@ -1,0 +1,9 @@
+.sidebar {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+}
+.sidebar_button {
+  padding: 20px;
+  text-align: center;
+}
